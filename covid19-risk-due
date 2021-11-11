@@ -1,0 +1,6 @@
+name = "Joseph"
+check = input("Please type your first name: ")
+if name.lower() == check.lower():
+	print(f"Hello {check.title{}} your password is 'W@12'")
+else:
+	print(f"Hello {check.title{}} See you later")
